@@ -3,5 +3,5 @@ Tableau analysis on birdstrike frequency and damage on US flights during a 12-ye
 
 ## [Link to Tableau dashboard: ](https://public.tableau.com/app/profile/kirsten.fure/viz/BirdStrikesAnalysis/Dashboard1)
 For full report analysis, please select the following PDF link: 
-## [Kirsten Fure Tableau BirdStrike Analysis.PDF](https://github.com/kfure/Tableau-Airline-BirdStrike-Analysis/blob/master/Kirsten_Fure_Tableau_BirdStrike_Analysis.pdf) 
+## [Kirsten Fure Tableau BirdStrike Analysis PDF Report](https://github.com/kfure/Tableau-Airline-BirdStrike-Analysis/blob/master/Kirsten_Fure_Tableau_BirdStrike_Analysis.pdf) 
 
